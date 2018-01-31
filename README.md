@@ -71,24 +71,24 @@ Problema
 #### Recopilación y Sintesis de Datos en la "Fase de Descubrimiento"
 
 1- Método : Estudio en campo
- 1.1 Objetivos
+ 1.1- Objetivos
    - Identificación del contexto 
    - Identificación de Partes Interesadas
    - Identificación de Usuarios Finales insitu real.
 
  1.2- Research Cualitativo - Entrevistas a Usuarios 
-   a) Entrevistas de contexto 
-   b) Entrevistas presenciales
-   c) Encuesta online
+   * Entrevistas de contexto 
+   * Entrevistas presenciales
+   * Encuesta online
 
  1.3- Conclusiones de Entrevistas
-   1.3.1- Identificación de Contexto ( cultural, uso )
+   * Identificación de Contexto ( cultural, uso )
         ![Inicio](images/diagrama-contexto.png)
 
-   1.3.2- Identificación de Partes Interesadas ( Diagrama de Stakeholders )
+   * Identificación de Partes Interesadas ( Diagrama de Stakeholders )
         ![Inicio](images/diagrama-stakeholders.png)
 
-   1.3.3- Identificación de Usuarios Finales insitu real: 
+   * Identificación de Usuarios Finales insitu real: 
         - Necesidades y Objetivos
         - uso de las instalaciones
         - comportamiento
@@ -97,11 +97,11 @@ Problema
         - preocupaciones
         ![Inicio](images/usuarios-finales.png)
 
-   1.3.4- Conclusiones de entrevistas
+   * Conclusiones de entrevistas
          a) Entrevistas de contexto
          b) Entrevistas presenciales
          c) Encuesta online
-   1.3.5- Perfiles de usuarios
+   * Perfiles de usuarios
 
 2- Revisión de Data ya existente 
   2.1- revisión de literatura del proceso ( normativa )
