@@ -43,17 +43,16 @@ Herramientas:
 Entregable:
 - Estructura Proceso Ux Research realizado 
 
-Conclusiones 
-- 
+Conclusiones:
+ 
 
 ## Proceso UX Research
 Problema
 "Mejorar la experiencia de todos los usuarios de transporte de viaje en bus"
 
-### Plan Research
+### Plan Research 
+- Iteración Nro 1 ("Fase de Descubrimiento")
 
-Iteración Nro 1 ("Fase de Descubrimiento")
--------------------------------------------
 1. Objetivos:
    - Identificar patrones 
 2. Hipótesis
